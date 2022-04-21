@@ -1,0 +1,13 @@
+header {
+  background-color: black;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
+}
+header nav h1 {
+  font-size: 18rem;
+}
+header nav h1 h1:hover {
+  transform: rotate(360deg);
+  transition: all 4s ease;
+}
+
+/*# sourceMappingURL=style.css.map */
